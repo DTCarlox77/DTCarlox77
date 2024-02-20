@@ -1,16 +1,26 @@
-### Hi there 👋
+## Acerca de mí
 
-<!--
-**DTCarlox77/DTCarlox77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la convergencia entre ciencia y tecnología, me distingo por mi constante sed de conocimiento y mi habilidad para aplicar aprendizajes de manera efectiva. En el ámbito de la programación, he cultivado experiencia significativa en el desarrollo de proyectos, abarcando tanto aplicaciones web como de escritorio.
 
-Here are some ideas to get you started:
+Mi trayectoria también se extiende a la Ingeniería Química, donde he contribuido al desarrollo de productos en entornos de laboratorio y evaluado proyectos desde una perspectiva económica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+
+Aspirando a alcanzar un nivel profesional fullstack, busco desafíos que impulsen mi crecimiento y expertise en el mundo tecnológico.
+
+## Tecnologías
+
+Mis habilidades incluyen el manejo de tecnologías como:
+
+- React
+- JavaScript
+- Python
+- Django
+- Flask
+- CSS
+- Sass
+- HTML
+- Bases de datos SQL
+- Boostrap
+
+---
