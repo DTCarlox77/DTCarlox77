@@ -1,3 +1,5 @@
+![Code](https://preview.redd.it/eat-sleep-code-repeat-v0-20rblmfxio3a1.jpg?auto=webp&s=9be12575d7c7defd91a28ed03ac6d3981d99aa28)
+
 ## Acerca de mí 👨‍💻
 
 Apasionado por la convergencia entre ciencia y tecnología 🧪, me distingo por mi constante sed de conocimiento y mi habilidad para aplicar aprendizajes de manera efectiva 🧑‍🎓. En el ámbito de la programación, he cultivado experiencia significativa en el desarrollo de proyectos, abarcando tanto aplicaciones web como de escritorio 💻.
