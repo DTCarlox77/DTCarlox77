@@ -4,7 +4,7 @@ Apasionado por la convergencia entre ciencia y tecnología 🧪, me distingo por
 
 Mi trayectoria también se extiende a la Ingeniería Química ⚗️, donde he contribuido al desarrollo de productos en entornos de laboratorio y evaluado proyectos desde una perspectiva económica 💵.
 
-# Objetivos 🏆
+# Objetivo 🏆
 
 Aspirando a alcanzar un nivel profesional fullstack, busco desafíos que impulsen mi crecimiento y expertise en el mundo tecnológico 🐍.
 
@@ -37,5 +37,7 @@ Mis habilidades incluyen el manejo de tecnologías para:
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 - ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### "Si lo puedes imaginar, lo puedes programar" - Leonidas Esteban.
+#
+
+### "Si lo puedes imaginar, lo puedes programar." - Leonidas Esteban.
 ### "El verdadero símbolo de la inteligencia no es el conocimiento, es la imaginación." - Albert Einstein.
