@@ -39,5 +39,5 @@ Mis habilidades incluyen el manejo de tecnologías para:
 
 #
 
-### "Si lo puedes imaginar, lo puedes programar." - Leonidas Esteban.
-### "El verdadero símbolo de la inteligencia no es el conocimiento, es la imaginación." - Albert Einstein.
+- "Si lo puedes imaginar, lo puedes programar." - Leonidas Esteban.
+- "El verdadero símbolo de la inteligencia no es el conocimiento, es la imaginación." - Albert Einstein.
