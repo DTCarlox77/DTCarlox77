@@ -8,6 +8,17 @@ Mi trayectoria también se extiende a la Ingeniería Química ⚗️, donde he c
 
 Aspirando a alcanzar un nivel profesional fullstack, busco desafíos que impulsen mi crecimiento y expertise en el mundo tecnológico 🐍.
 
+# Estadísticas 🍓
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DTCarlox77&show_icons=true&theme=default&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DTCarlox77&theme=default" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTCarlox77&layout=compact&theme=default" alt="Top Langs" width="48%" />
+</p>
+
 # Tecnologías 🤖
 
 Mis habilidades incluyen el manejo de tecnologías para:
